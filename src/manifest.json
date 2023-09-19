@@ -1,0 +1,6 @@
+{
+  "namespace": "rich_smith_crafter_and_more",
+  "icon": "icon.png",
+  "setup": "setup.mjs",
+  "logo_attribution": "Flaticon: https://www.flaticon.com/free-icon/money-bag_2822360"
+}
